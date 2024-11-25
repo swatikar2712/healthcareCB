@@ -16,7 +16,7 @@ The Healthcare Chatbot is a Python-based application designed to assist users in
 ## Tech Used  
 - **Programming Language**: Python  
 - **Framework**: Streamlit  
-- **Text-to-Speech Integration**: `pyttsx3` or `gTTS`  
+- **Text-to-Speech Integration**: `pyttsx3`  
 - **Frontend Styling**: Built-in Streamlit components  
 
 
