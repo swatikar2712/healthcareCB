@@ -3,4 +3,4 @@ pandas
 pyttsx3
 streamlit 
 NumPy
-csv, re, warnings
+csv
